@@ -36,7 +36,7 @@ To run the tests in this project, you need to run the following command in the c
 $ npm run cypress:open
 ```
 
-After running the command, you will see the cypress window, where you can execute all the scripts or only the script you need. 
+After running the command, you will see the cypress window, you can execute all the scripts or only the script you need. 
 
 ## Test cross-browser
 
