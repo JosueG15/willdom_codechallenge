@@ -30,7 +30,7 @@ $ npm run lint
 
 ## Test
 
-To run the test in this project, you need to run the following command in the console: 
+To run the tests in this project, you need to run the following command in the console: 
 
 ```sh
 $ npm run cypress:open
