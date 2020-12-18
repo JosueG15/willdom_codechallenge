@@ -36,6 +36,6 @@ describe('Testing Validations in the Factorial Web App', () => {
     it('Should show an error message if a string value is provided', () => {
         cy.get('#number').type('0sa 45').should('have.value', '0sa 45')
         cy.get('#getFactorial').click()
-        cy.get('#resultDiv').should('contain', 'Please enter a positive integer')
+        cy.get('#resultDiv').should('contain', 'Please enter an integer')
     })
 })
