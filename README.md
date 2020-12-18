@@ -36,6 +36,8 @@ To run the test in this project, you need to run the following command in the co
 $ npm run cypress:open
 ```
 
+After running the command, you will see the cypress window, where you could execute all the scripts or only the script you need. 
+
 ## Test cross-browser
 
 Cypress allow to use cross-browser for specifyc browsers, you can run the following commands to test in different browsers:
@@ -44,3 +46,12 @@ Cypress allow to use cross-browser for specifyc browsers, you can run the follow
 $ npm run cypress:chrome
 $ npm run cypress:firefox
 ```
+
+## Bug Documentation
+
+There is a board with the list of bugs in Trello, you can access to it using this link [trello](https://trello.com/b/JJ43jaMT/willdom-challenge)
+
+
+There is also a document with the list of bugs in Google Drive, you can have access to see it using this link [Drive](https://docs.google.com/spreadsheets/d/1lVyeqvtWkFQd4aUfEoeK40Xf95-4WTOSA6ikBRv8RPA/edit?usp=sharing)
+
+To modify the spreadsheet, you need to request access to the QA Team. 
