@@ -1,0 +1,21 @@
+{
+  "name": "willdom-codechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.1.0",
+    "eslint": "^7.15.0",
+    "eslint-plugin-cypress": "^2.11.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:chrome": "cypress run --browser chrome",
+    "cypress:firefox": "cypress run --browser firefox",
+    "lint": "eslint cypress/**/*.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
