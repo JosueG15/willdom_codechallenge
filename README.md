@@ -21,7 +21,7 @@ $ npm install
 
 ## Linter
 
-This project use eslint with the cypress plugin, you need to have installed the eslint extension to use the linder. 
+This project uses eslint with the cypress plugin, you need to have installed the eslint extension to use the linter. 
 To run eslint, you need to execute the following command: 
 
 ```sh
@@ -36,7 +36,7 @@ To run the test in this project, you need to run the following command in the co
 $ npm run cypress:open
 ```
 
-After running the command, you will see the cypress window, where you could execute all the scripts or only the script you need. 
+After running the command, you will see the cypress window, where you can execute all the scripts or only the script you need. 
 
 ## Test cross-browser
 
