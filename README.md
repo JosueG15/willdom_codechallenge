@@ -40,7 +40,7 @@ After running the command, you will see the cypress window, you can execute all 
 
 ## Test cross-browser
 
-Cypress allow to use cross-browser for specifyc browsers, you can run the following commands to test in different browsers:
+You can run the following commands to test in different browsers:
 
 ```sh
 $ npm run cypress:chrome
