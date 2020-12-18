@@ -19,6 +19,15 @@ Work is done on in "master" branch.  From any created branch it's sent to master
 $ npm install
 ```
 
+## Linter
+
+This project use eslint with the cypress plugin, you need to have installed the eslint extension to use the linder. 
+To run eslint, you need to execute the following command: 
+
+```sh
+$ npm run lint
+```
+
 ## Test
 
 To run the test in this project, you need to run the following command in the console: 
