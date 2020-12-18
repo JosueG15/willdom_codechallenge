@@ -2,7 +2,7 @@
 
 **Customer Name**: Hodinkee
 
-**Repo Name**: willdom_challenge
+**Repo Name**: willdom_codechallenge
 
 * * *
 
